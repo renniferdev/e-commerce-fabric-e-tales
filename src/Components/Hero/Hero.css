@@ -138,9 +138,8 @@
 
   @media(max-width: 500px) {  
     .hero {  
-        flex-direction: column;  
+        flex-direction: wrap;  
         align-items: center; /* Centraliza os itens no eixo principal */
-        text-align: center;
     }  
     .hero-right {  
         display: flex; /* Em vez de ocultar, permitimos que a imagem se ajuste */
