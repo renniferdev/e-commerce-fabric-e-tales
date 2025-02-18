@@ -169,6 +169,8 @@
 @media (max-width: 800px) {
   .navbar {
     padding: 10px 0px;
+    width: 100%; /* Garante que a navbar ocupe 100% da largura da tela */
+    box-sizing: border-box; /* Garante que o padding não ultrapasse a largura */
   }
   .nav-dropdown {
     display: block;
@@ -184,6 +186,7 @@
     background-color: white;
     justify-content: center;
     top: 50px;
+    width: 100%; /* Garante que o menu ocupe 100% da largura */
   }
   .nav-menu-visible {
     display: flex;
@@ -193,6 +196,8 @@
   }
   .nav-login-cart {
     transform: scale(1);
+    width: 100%; /* Ajuste da largura dos itens do carrinho e login */
+    justify-content: space-between; /* Organiza os itens */
   }
   @media (max-width: 500px) {
     .navbar {
