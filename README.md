@@ -17,6 +17,16 @@ Fabric & Tales é um e-commerce moderno desenvolvido com React.js, oferecendo um
 
 </div>
 
+<h2>📸 Screenshots do Projeto - Fabric & Tales</h2>
+
+<img src="https://github.com/user-attachments/assets/ca5e63b0-99cb-4530-85ee-a7a3959a9f9f" width="400" height="400" style="object-fit: cover; border-radius: 10px;">
+<img src="https://github.com/user-attachments/assets/a7d5890e-4836-479b-8abe-d9486b83d4fc" width="400" height="400" style="object-fit: cover; border-radius: 10px;">
+<img src="https://github.com/user-attachments/assets/af7af3f2-64ff-418a-a702-86102f99ade4" width="400" height="400" style="object-fit: cover; border-radius: 10px;">
+<img src="https://github.com/user-attachments/assets/56baa1d6-75bc-48a9-982c-244bcf45768c" width="400" height="400" style="object-fit: cover; border-radius: 10px;">
+<img src="https://github.com/user-attachments/assets/c308f3c5-2bf4-4ae8-9d2c-cfb188e18f8f" width="400"height="400" style="object-fit: cover; border-radius: 10px;">
+<img src="https://github.com/user-attachments/assets/70865fd5-c557-4687-ab62-b84bd96b8dec" width="400"height="400" style="object-fit: cover; border-radius: 10px;">
+
+
 
 
 ### 📌 Descrição das Tecnologias
